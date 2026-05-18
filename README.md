@@ -34,4 +34,4 @@ If the user chooses to deconstruct, prompt them for a single color. Deconstruct 
 
 Remove the intial question about whether the user wants to combine or deconstruct. Instead, prompt the user a single time for colors. If the user inputs a single color (i.e.: "purple"), deconstruct it. If the user inputs two colors separated by a space, (i.e.: "red blue"), combine them.
 
-To do this, check out the string method, `.includes()`: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes
+To do this, check out the string method, `.includes()`: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes OR https://www.w3schools.com/jsref/jsref_includes.asp
